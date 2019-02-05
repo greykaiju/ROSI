@@ -1,0 +1,10 @@
+ROSI Requests
+
+- Add To Admin
+- RAM Stats
+- Reboot PC
+- Log Off
+- Log off Genshare
+- C$
+- SCCM Action Triggers
+- Run Login Scripts
